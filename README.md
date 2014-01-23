@@ -37,10 +37,10 @@ Week 1 - Introduction - 1/27/14
     * Develop a Processing sketch (or program in the environment of your choosing) that experiments with motion. You should feel free to design your own assignment.  If you are stuck for an idea here are some suggestions.  
         * Create a random walker with dynamic probabilities.  For example, can you give it a 50% chance of moving in the direction of the mouse?
         *  Gaussian random walk is defined as one in which the step size (how far the object moves in a given direction) is generated with a normal distribution.  Implement this variation of our random walk.
-        * Try implementing the "self-avoiding walk": [http://en.wikipedia.org/wiki/Self-avoiding_walk](http://en.wikipedia.org/wiki/Self-avoiding_walk)
-        * Try implement the random walk known as a Levy Flight: [http://en.wikipedia.org/wiki/L%C3%A9vy_flight](http://en.wikipedia.org/wiki/L%C3%A9vy_flight)
-        * Try a walk in 3D: See: [http://en.wikipedia.org/wiki/Quantum_Cloud](http://en.wikipedia.org/wiki/Quantum_Cloud)
+        * Try implementing a [self-avoiding walk](http://en.wikipedia.org/wiki/Self-avoiding_walk)
+        * Try implement the random walk known as [a Levy Flight](http://en.wikipedia.org/wiki/L%C3%A9vy_flight)
+        * Try a walk in 3D, for example: [http://en.wikipedia.org/wiki/Quantum_Cloud](http://en.wikipedia.org/wiki/Quantum_Cloud)
         * Use the random walker as a template to simulate some real-world "natural" motion. Can you develop a set of rules for simulating that behavior?  Ideas: nervous fly, hopping bunny, slithering snake, etc.  (Consider the challenge of using minimal visual design, i.e. b&w primitive shapes.  Can you give your "being" a personality?  Can it express emotions -- happiness, sadness, fear, etc.?  
-        * There are also more exercises in [The Nature of Code Introduction](http://natureofcode.com/book/introduction/)
+        * There are also more exercises in [The Nature of Code Introduction](http://natureofcode.com/book/introduction/).
     * *You'll need to create a web page to document your homework.*  It could be as simple as the auto-generated page created by Processing's JavaScript mode.  It could also be a blog post or something custom you design.  NOTE TO SELF: ADD LINK TO WIKI HERE
 
