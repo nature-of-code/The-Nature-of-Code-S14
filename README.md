@@ -81,9 +81,24 @@ Week 2 - Forces - 2/3/14
     * [Newtonian Physics, An Online Textbook](http://www.lightandmatter.com/area1book1.html) (This is long, you may find Chapter 4 to be particularly relevant to this week's discussion.)
     * [The Physics Classroom -- Newton's Laws](http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html)
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapters 12 and 14
-    
+
 Week 3 - Oscillation - 2/10/14
 -------------------------------
+* [Nature of Code Chapter 3: Oscillation](http://natureofcode.com/book/chapter-3-oscillation/)
+* [Videos 3.1 - 3.5](http://video.natureofcode.com/3.1/)
+* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp3_oscillation)
+* p5.js coming soon
+* Assignment: Incorporate oscillatory motion into a previous assignment (or create a new one).  Some suggestions:
+    * Design a creature with oscillating parts (legs, wings, antennae, etc.)  Consider tying the speed of oscillation to the speed of the creature's linear motion.  Can you make it appear that the creature's internal mechanics (oscillation) drive its locomotion?  https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp3_oscillation/NOC_3_07_oscillating_objects[An example solution.]
+    * Create a simulation where objects are shot out of a cannon.  Each object should experience a sudden force when shot (just once) as well as gravity (always present).   Add rotation to the object to model its spin as its shot from the cannon.  How realistic can you make it look?
+    * Create a simulation of a vehicle that you can drive around the screen using the arrow keys: left arrow accelerates the car to the left, right to the right.  The car should point in the direction it is currently moving.
+    * Simulate the spaceship in the game Asteroids.   In case you aren't familiar with Asteroids, here is a brief description. A spaceship (represented as a triangle) floats in two dimensional space.   The left arrow keys turns the spaceship counter-clockwise, the right clock-wise.  The space bar applies a “thrust“ force in the direction the spaceship is pointing. [Example Solution](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp3_oscillation/Exercise_3_05_asteroids)
+    * String together a series of pendulums so that the endpoint of one is the origin point of another.
+    * Use trigonometry to model a box sliding down an incline with friction.  Note that the magnitude of the friction force is equal to the normal force. 
+    * Rework the wave examples to have a Wave class and visualize the wave using something other than circles. [Example Answer (minus the change in visualization)](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp3_oscillation/Exercise_3_10_OOPWave)
+    * Using the Spring example as a basis, create a system of multiple bobs and spring connections.  How would you have a Bob connected to a Bob with no fixed anchor?
+    * Research and implement a simulation of [Torque](http://en.wikipedia.org/wiki/Torque).
+* As always, please create a web page to document your homework. Make sure it include some visual documentation of your work as well as the source code.
 
 ### No class, 2/17/14, Presidents Day
 
