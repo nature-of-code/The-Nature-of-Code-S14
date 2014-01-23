@@ -34,10 +34,16 @@ Week 1 - Introduction - 1/27/14
     * [Related and Past Projects](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Nature-of-Code-Related-and-Past-Projects)
 * [Processing](http://www.processing.org) review
 * [p5.js Discussion](https://github.com/lmccart/p5.js)
-* [Randomness, Probability, and Perlin Noise](http://natureofcode.com/book/introduction/)
+* Randomness, Probability, and Perlin Noise
+    * [Nature of Code Introduction](http://natureofcode.com/book/introduction/)
     * [Videos I.1 - I.5](http://video.natureofcode.com/i.1/)
-* [Object Oriented Programming Review & Vectors](http://natureofcode.com/book/chapter-1-vectors/)
+    * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/introduction)
+    * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/introduction)
+* Object Oriented Programming Review & Vectors
+    * [Nature of Code Chapter 1](http://natureofcode.com/book/chapter-1-vectors/)
     * [Videos 1.1 - 1.6](http://video.natureofcode.com/1.1/)
+    * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp1_vectors)
+    * p5.js examples coming soon
 * Assignment
     * [Sign up for class mailing list](https://groups.google.com/a/itp.nyu.edu/forum/#!forum/natureofcode)
     * Develop a Processing sketch (or program in the environment of your choosing) that experiments with motion. You should feel free to design your own assignment.  If you are stuck for an idea here are some suggestions.  
@@ -56,12 +62,15 @@ Week 1 - Introduction - 1/27/14
 
 
 Week 2 - Forces - 2/3/14
--------------------------------
+------------------------
+* 
+
+
 
 Week 3 - Oscillation - 2/10/14
 -------------------------------
 
-**No class, 2/17/14, Presidents Day**
+### No class, 2/17/14, Presidents Day
 
 Week 4 - Systems - 2/24/14
 -------------------------------
@@ -72,7 +81,7 @@ Week 5 - Physics Libraries - 3/3/14
 Week 6 - Autonomous Agents - 3/10/14
 -----------------------------------
 
-**No class, 3/17/14, Spring Break**
+### No class, 3/17/14, Spring Break
 
 Week 7 - Mid-Semester Project Presentations - 3/24/14
 -----------------------------------------------------
