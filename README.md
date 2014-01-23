@@ -99,11 +99,33 @@ Week 3 - Oscillation - 2/10/14
     * Using the Spring example as a basis, create a system of multiple bobs and spring connections.  How would you have a Bob connected to a Bob with no fixed anchor?
     * Research and implement a simulation of [Torque](http://en.wikipedia.org/wiki/Torque).
 * As always, please create a web page to document your homework. Make sure it include some visual documentation of your work as well as the source code.
+* Supplemental reading
+    * The Mathematics of Oscillatory Motion (refer to e-mail to class list.)
+    * [Trigonometry, What is it good for?](http://www.phy6.org/stargaze/Strig1.htm)
+    * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapter 4  
 
 ### No class, 2/17/14, Presidents Day
 
 Week 4 - Systems - 2/24/14
 -------------------------------
+* [Nature of Code Chapter 4: Systems](http://natureofcode.com/book/chapter-4-systems/)
+* [Videos 4.1 - 4.9](http://video.natureofcode.com/4.1/)
+* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp4_systems)
+* p5.js coming soon
+* Assignment: At this point we're a bit deeper in the semester and approaching the midterm project.  Feel free to simply start on a midterm idea or continue something you've been working on previously.  If you would like to try an exercise related to particle systems, here are some suggestions:
+    * Use a particle system in the design of a "Mover" object.  In other words take, say, one of our earlier examples and instead of rendering a Mover object as a simple circle, emit particles from the mover's location.  For example, building off https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp3_oscillation/Exercise_3_05_asteroids[Chapter 3’s "Asteroids" example], use a particle system to emit particles from the ship’s “thrusters” whenever a thrust force is applied. The particles’ initial velocity should be related to the ship’s current direction.
+    * Create a particle system where the particles respond to each other via forces.  For example, what if you connect the particles with spring forces?  Or an attraction / repulsion force?
+    * Model a specific visual effect using a particle system -- fire, smoke, explosion, waterfall, etc.
+    * Create a simulation of an object shattering into many pieces. How can you turn one large shape into many small particles? What if there are several large shapes on the screen and they shatter when you click on them?
+    * Create a particle system in which each particle responds to every other particle.  (Note we'll be doing this in detail in Week 6.
+    * Create a particle system with different “kinds” of particles in the same system. Try varying more than just the look of the particles. How do you deal with different behaviors using inheritance?
+    * Use an array of images and assign each Particle object a different image. Even though single images are drawn by multiple particles, make sure you don’t call loadImage() any more than you need to, i.e. once for each image file.
+* As always, please create a web page to document your homework. Make sure it include some visual documentation of your work as well as the source code.
+* Supplemental Reading
+    * ["Particle animation and rendering using data parallel computation", Karl Sims](http://doi.acm.org/10.1145/97879.97923) (available via NYU network/proxy)
+    * ["Particle Systems, a Technique for Modeling a Class of Fuzzy Objects", Reeves](http://doi.acm.org/10.1145/357318.357320) (available via NYU network/proxy)
+    * [How my Dog learned Polymorphism](http://www.javaranch.com/campfire/StoryPoly.jsp)
+    * [Particle Systems (Siggraph)](http://www.siggraph.org/education/materials/HyperGraph/animation/particle.htm), [Particle System API, by David K. McAllister](http://www.cs.unc.edu/+++~+++davemc/Particle/), [Particle Systems by Allen Martin](http://www.cs.wpi.edu/+++~+++matt/courses/cs563/talks/psys.html)
 
 Week 5 - Physics Libraries - 3/3/14
 -----------------------------------
