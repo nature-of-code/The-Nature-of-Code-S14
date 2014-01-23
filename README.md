@@ -63,10 +63,25 @@ Week 1 - Introduction - 1/27/14
 
 Week 2 - Forces - 2/3/14
 ------------------------
-* 
-
-
-
+* [Nature of Code Chapter 2: Forces](http://natureofcode.com/book/chapter-2-forces/)
+* [Videos 2.1 - 2.6](http://video.natureofcode.com/2.1/)
+* [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp2_forces)
+* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp2_forces)
+* Assignment: Choose one or create your own. Post your work as a link in the comments below.
+    * Rework your motion sketch from week 1 using PVector.  Try incorporating the concept of _forces_ into the environment by affecting _only_ the acceleration.   Create a formula for calculating a dynamic acceleration, one that changes over time based on any number of factors.  What happens if you make more than one object via an array.
+    * Using forces, simulate a helium-filled balloon floating upward (and bouncing off the top of a window).  Can you add a wind force which changes over time, perhaps according to Perlin noise?
+    * Create an example where instead of objects bouncing off the edge of the wall, an invisible force pushes back on the objects to keep them in the window.  Can you weight the force according to how far the object is from an edge, i.e. the closer it is, the stronger the force?   
+    * Create pockets of air resistance / friction in a Processing sketch.  Try using circles instead of rectangles, i.e. pockets of mud (or ice).  What if you vary the strength (drag / friction coefficient) of each circle?   What if you make some of them the opposite of drag—i.e., when you enter a given pocket you actually speed up instead of slow down?
+    * Can you create an example where all of the Mover objects are attracted to the mouse, but repel each other?  Think about how you need to balance the relative strength of the forces and how to most effectively use distance in your force calculations.
+    * Research a force not covered in class and implement it as a vector.
+    * Use the concept of forces to visualize some input (could be data, literal example would be get windspeed online and translate to a wind force in Processing, but feel free to think more abstractly)
+    * Build a sketch that has both "Movers" and "Attractors".  What if you make the Attractors invisible?  Can you create a pattern / design from the trails of objects moving around attractors?  See the [Metropop Denim project by Clayton Cubitt and Tom Carden](http://processing.org/exhibition/works/metropop/) for an example.
+* Just as with last week, please create a web page to document your homework. Make sure it include some visual documentation of your work as well as the source code.
+* Supplemental Reading
+    * [Newtonian Physics, An Online Textbook](http://www.lightandmatter.com/area1book1.html) (This is long, you may find Chapter 4 to be particularly relevant to this week's discussion.)
+    * [The Physics Classroom -- Newton's Laws](http://www.physicsclassroom.com/Class/newtlaws/newtltoc.html)
+    * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/), Chapters 12 and 14
+    
 Week 3 - Oscillation - 2/10/14
 -------------------------------
 
