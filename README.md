@@ -14,6 +14,7 @@ Key Links
 * [All code examples in Processing](https://github.com/shiffman/The-Nature-of-Code-Examples)
 * [Code examples ported to p5.js](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js)
 * [Other ports](https://github.com/shiffman/The-Nature-of-Code-Examples/blob/master/README.md)
+* [Further Reading](http://natureofcode.com/book/further-reading/)
 
 Related Reading and Watching
 ----------------------------
@@ -133,6 +134,9 @@ Week 5 - Physics Libraries - 3/3/14
 -----------------------------------
 * [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
 * Box2D
+    * [Box2D web site](http://box2d.org/)
+    * [JBox2D web site](http://www.jbox2d.org/)
+    * [PBox2D github repo](https://github.com/shiffman/PBox2D)
     * [Videos 5.1 - 5.9](http://video.natureofcode.com/5.1/)
     * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/box2d)
     * p5.js coming soon
@@ -155,6 +159,10 @@ Week 6 - Autonomous Agents - 3/10/14
 * [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp6_agents)
 * p5.js examples coming soon
+* Related
+    * [Reas Process Compendium](https://vimeo.com/22955812)
+    * [Braitenberg Vehicles](http://books.google.com/books/?id=7KkUAT_q_sQC)
+    * [Craig Reynolds' Steering Behaviors for Autonomous Characters](http://www.red3d.com/cwr/steer/)
 * Homework.  Prepare a midterm project presentation.  Your midterm can be anything that *builds off of* or *is inspired by* the concepts we've covered this first half of the semester (motion and physics).  You should feel free to think non-traditionally, i.e. your midterm need not be a Processing sketch.  The midterm does not need to be a fully realized project, it is useful to use this time to build out a single component of a larger idea or test out a concept that you are thinking about for a final.  If you are stuck, feel free to come and talk to me.  Or try one of these suggestions:
     * Extend one of the examples into 3D
     * Design a simulation of a single creature (that you imagine living in a larger eco-system).
@@ -173,6 +181,15 @@ Week 6 - Autonomous Agents - 3/10/14
             * Build a creature with countless steering behaviors (as many as you can reasonably add).  Think about ways to vary the weights of these behaviors so that you can dial those behaviors up and down, mixing and matching on the fly.    How are creatures' initial weights set?  What rules drive how the weights change over time?
             * Use applyForce() in Box2D or addForce() in Toxiclibs to create a flocking simulation in one of those physics engines
             * Complex systems can be nested.  Can you design a single creature out of a flock of boids?  And can you then make a flock of those creatures?
+    * If you are still struggling for ideas, here are some links to midterm projects from previous years:
+        * [Dollee's Mon Mon Monsters](http://itp.nyu.edu/~db2497/itp/?p=329)
+        * [Mark's Plop Plop Fizz Fizz](http://www.markbreneman.com/blog/2012/03/06/plop-plop-fizz-fizz/)
+        * [Natalie's Trees](http://itp.nyu.edu/~nbe206/blog/?p=673)
+        * [Ben's Genetic Verlet Physics](http://blog.benturner.com/2012/03/07/nature-of-code-midterm-genetic-crossing-with-verlet-physics/)
+        * [Peter's Name Swarm](http://stu.itp.nyu.edu/~pmd299/NOC/midterm/)
+        * [Nick's Cosmic Crossfire](http://nicksantan.com/blog/2012/03/cosmic-crossfire/)
+        * [Jannae's Collide](http://jann.ae/collide/)
+        * [Mark's Waiting Game airport project](http://stu.itp.nyu.edu/~mk3981/blog/?p=1311)
 
 ### No class, 3/17/14, Spring Break
 
@@ -186,11 +203,26 @@ Week 8 - Cellular Automata / Fractals - 3/31/14
     * [Nature of Code Chapter 7](http://natureofcode.com/book/chapter-7-cellular-automata/)
     * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp7_CA)
     * p5.js examples coming soon
+    * [A New Kind of Science](http://www.wolframscience.com/nksonline/toc.html)
+    * [Elementary Cellular Automaton](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
+    * [2D Water Ripples CA](http://freespace.virgin.net/hugo.elias/graphics/x_water.htm)
 * Fractals
    * [Nature of Code Chapter 8](http://natureofcode.com/book/chapter-8-fractals/)
    * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp8_fractals)
    * p5.js examples coming soon
-*  Develop Final Project Proposal (guidelines TBA)
+   * [PBS Nova - Fractals - Hunting the Hidden Dimension](http://www.youtube.com/watch?v=LemPnZn54Kw)
+   * [Fractal Geometry of Nature](http://en.wikipedia.org/wiki/The_Fractal_Geometry_of_Nature)
+   * [How Long is the Coastline of Britain by Benoit Mandelbrot](http://en.wikipedia.org/wiki/How_Long_Is_the_Coast_of_Britain%3F_Statistical_Self-Similarity_and_Fractional_Dimension)
+   * [Toby Schachman's Recursive Drawing](http://recursivedrawing.com/)
+   * [Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
+   * [L-Systems in Computational Beauty of Nature](http://books.google.com/books?id=0aUhuv7fjxMC&pg=PA78)
+*  Assignment: Final Project Proposal.
+   * Your final project is a four week assignment to be completed in two stages (proposal and implementation).  Proposals presentations will divided between weeks 9 and 10.
+   * The final project should be a creative project that *builds off of* or *is inspired by* the concepts we've covered this semester.  You should feel free to think non-traditionally, final projects do not need to be screen-based or even involve programming.
+   * For your proposal it's up to you to best present your idea, but at a minimum you should include:
+       * Title and short paragraph description
+	   * Visual documentation -- drawings, videos, images, code sketches, etc
+	   * Links to inspiration and source material
 
 Week 9 - Genetic Algorithms / Final Project Proposals - 4/7/14
 --------------------------------------------------------------
