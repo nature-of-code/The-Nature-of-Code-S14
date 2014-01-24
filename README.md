@@ -126,7 +126,8 @@ Week 4 - Systems - 2/24/14
     * ["Particle animation and rendering using data parallel computation", Karl Sims](http://doi.acm.org/10.1145/97879.97923) (available via NYU network/proxy)
     * ["Particle Systems, a Technique for Modeling a Class of Fuzzy Objects", Reeves](http://doi.acm.org/10.1145/357318.357320) (available via NYU network/proxy)
     * [How my Dog learned Polymorphism](http://www.javaranch.com/campfire/StoryPoly.jsp)
-    * [Particle Systems (Siggraph)](http://www.siggraph.org/education/materials/HyperGraph/animation/particle.htm), [Particle System API, by David K. McAllister](http://www.cs.unc.edu/+++~+++davemc/Particle/), [Particle Systems by Allen Martin](http://www.cs.wpi.edu/+++~+++matt/courses/cs563/talks/psys.html)
+    * [Particle System API, by David K. McAllister](http://www.siggraph.org/education/materials/HyperGraph/animation/particle.htm)
+    * [Particle Systems by Allen Martin](http://www.cs.unc.edu/+++~+++davemc/Particle/)
 
 Week 5 - Physics Libraries - 3/3/14
 -----------------------------------
@@ -139,30 +140,76 @@ Week 5 - Physics Libraries - 3/3/14
     * [Videos 5.13 - 5.16](http://video.natureofcode.com/5.1/)
     * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/toxiclibs)
     * p5.js coming soon
+    * [ToxicLibs](http://toxiclibs.org/)
+    * [The Making of Nokia Friends](https://vimeo.com/1472427)
+    * [Advanced Character Physics](http://www.gamasutra.com/resource_guide/20030121/jacobson_pfv.htm)
 * Bullet
     * [bRigid Processing Library](http://www.lab-eds.org/bRigid)
 * Other libraries?
 * Homework TBA (exercise picking one physics library)
+* Supplemental Reading
+    * TBA
 
 Week 6 - Autonomous Agents - 3/10/14
 -----------------------------------
+* [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
+* [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp6_agents)
+* p5.js examples coming soon
+* Homework.  Prepare a midterm project presentation.  Your midterm can be anything that *builds off of* or *is inspired by* the concepts we've covered this first half of the semester (motion and physics).  You should feel free to think non-traditionally, i.e. your midterm need not be a Processing sketch.  The midterm does not need to be a fully realized project, it is useful to use this time to build out a single component of a larger idea or test out a concept that you are thinking about for a final.  If you are stuck, feel free to come and talk to me.  Or try one of these suggestions:
+    * Extend one of the examples into 3D
+    * Design a simulation of a single creature (that you imagine living in a larger eco-system).
+    * Develop a non keyboard/mouse way of interacting with an environments' forces (i.e. video tracking, sensors, etc.)
+    * Use physics simulation to fabricate something -- a print, a sculpture, etc.
+    * You could also try one of these exercises about steering behaviors
+        * Implement seeking a moving target, often referred to as “pursuit.“  In this case, your desired velocity won't point towards the object's current location, rather its “future“ location as extrapolated based on its current velocity.
+        * Create a sketch where a Vehicle's maximum force and maximum speed do not remain constant, but rather vary according to environmental factors.
+        * Create a flow field that changes over time
+        * Create a flow field based on image data
+        * Expand the path following example to have a path that changes over time.  Can the points that define the path itself have their own steering behaviors?
+        * Create something inspired by Braitenberg's Vehicles
+        * Flocking
+            * Implement Flake's "View" rule, described in Computational Beauty of Nature
+            * Create a flocking simulation where all of the parameters (separation weight, cohesion weight, alignment weight, maximum force, maximum speed) change over time.  They could be controlled by Perlin noise or by user interaction.
+            * Build a creature with countless steering behaviors (as many as you can reasonably add).  Think about ways to vary the weights of these behaviors so that you can dial those behaviors up and down, mixing and matching on the fly.    How are creatures' initial weights set?  What rules drive how the weights change over time?
+            * Use applyForce() in Box2D or addForce() in Toxiclibs to create a flocking simulation in one of those physics engines
+            * Complex systems can be nested.  Can you design a single creature out of a flock of boids?  And can you then make a flock of those creatures?
 
 ### No class, 3/17/14, Spring Break
 
 Week 7 - Mid-Semester Project Presentations - 3/24/14
 -----------------------------------------------------
+* Schedule TBA
 
 Week 8 - Cellular Automata / Fractals - 3/31/14
 -----------------------------------------------
+* Cellular Automata
+    * [Nature of Code Chapter 7](http://natureofcode.com/book/chapter-7-cellular-automata/)
+    * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp7_CA)
+    * p5.js examples coming soon
+* Fractals
+   * [Nature of Code Chapter 8](http://natureofcode.com/book/chapter-8-fractals/)
+   * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp8_fractals)
+   * p5.js examples coming soon
+*  Develop Final Project Proposal (guidelines TBA)
 
-Week 9 - Genetic Algorithms - 4/7/14
-------------------------------------
+Week 9 - Genetic Algorithms / Final Project Proposals - 4/7/14
+--------------------------------------------------------------
+* [Nature of Code Chapter 9](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
+* [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp9_ga)
+* p5.js examples coming soon
+* Final Project Proposal Schedule TBA
 
-Week 10 - Final Project Proposals - 3/14/14
--------------------------------------------
+Week 10 - Neural Networks / Final Project Proposals - 4/14/14
+--------------------------------------------------------------
+* [Nature of Code Chapter 10](http://natureofcode.com/book/chapter-10-neural-networks/)
+* [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp10_nn)
+* p5.js examples coming soon
+* Final Project Proposal Schedule TBA
 
 Week 11 - User Testing Week - 3/21/14
 -------------------------------------
+* Guidelines TBA
 
 Week 12 - Final Project Presentations - 3/28/14
 -----------------------------------------------
+* Presenation Schedule and Guidelines TBA
