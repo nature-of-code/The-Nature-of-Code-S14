@@ -42,6 +42,7 @@ Week 1 - Introduction - 1/27/14
 * Object Oriented Programming Review & Vectors
     * [Nature of Code Chapter 1](http://natureofcode.com/book/chapter-1-vectors/)
     * [Videos 1.1 - 1.6](http://video.natureofcode.com/1.1/)
+    * Note the above videos will be screened Thursday, Jan 30th in room 15 from 1-2pm.  Mimi Yin is working on a video annotation project and will be using this session user testing (and also available to answer your questions about vectors!)
     * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp1_vectors)
     * p5.js examples coming soon
 * Assignment
@@ -55,7 +56,7 @@ Week 1 - Introduction - 1/27/14
         * Use the random walker as a template to simulate some real-world "natural" motion. Can you develop a set of rules for simulating that behavior?  Ideas: nervous fly, hopping bunny, slithering snake, etc.  (Consider the challenge of using minimal visual design, i.e. b&w primitive shapes.  Can you give your "being" a personality?  Can it express emotions -- happiness, sadness, fear, etc.?  
         * There are also more exercises in [The Nature of Code Introduction](http://natureofcode.com/book/introduction/).
     * *You'll need to create a web page to document your homework.*  It could be as simple as the auto-generated page created by Processing's JavaScript mode.  It could also be a blog post or something custom you design.  NOTE TO SELF: ADD LINK TO WIKI HERE
- * Supplemeental Reading
+ * Supplemental Reading
     * [Mathematics and Physics for Programmers](http://www.amazon.com/gp/product/1584503300/) Chapter 5
     * [Computational Beauty of Nature](http://www.amazon.com/gp/product/0262561271/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0262561271&linkCode=as2&tag=natureofcode-20), Introduction
     * [Probability Theory](http://www.probabilitytheory.info/)
