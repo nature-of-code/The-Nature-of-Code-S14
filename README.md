@@ -112,8 +112,8 @@ Week 4 - Systems - 2/24/14
 * [Videos 4.1 - 4.9](http://video.natureofcode.com/4.1/)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp4_systems)
 * p5.js coming soon
-* Assignment: At this point we're a bit deeper in the semester and approaching the midterm project.  Feel free to simply start on a midterm idea or continue something you've been working on previously.  If you would like to try an exercise related to particle systems, here are some suggestions:
-    * Use a particle system in the design of a "Mover" object.  In other words take, say, one of our earlier examples and instead of rendering a Mover object as a simple circle, emit particles from the mover's location.  For example, building off https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp3_oscillation/Exercise_3_05_asteroids[Chapter 3’s "Asteroids" example], use a particle system to emit particles from the ship’s “thrusters” whenever a thrust force is applied. The particles’ initial velocity should be related to the ship’s current direction.
+* Assignment:  Try one of the following or design your own.
+    * Use a particle system in the design of a "Mover" object.  In other words take, say, one of our earlier examples and instead of rendering a Mover object as a simple circle, emit particles from the mover's location.  For example, building off [Chapter 3’s "Asteroids" example](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/Processing/chp3_oscillation/Exercise_3_05_asteroids), use a particle system to emit particles from the ship’s “thrusters” whenever a thrust force is applied. The particles’ initial velocity should be related to the ship’s current direction.
     * Create a particle system where the particles respond to each other via forces.  For example, what if you connect the particles with spring forces?  Or an attraction / repulsion force?
     * Model a specific visual effect using a particle system -- fire, smoke, explosion, waterfall, etc.
     * Create a simulation of an object shattering into many pieces. How can you turn one large shape into many small particles? What if there are several large shapes on the screen and they shatter when you click on them?
@@ -129,6 +129,19 @@ Week 4 - Systems - 2/24/14
 
 Week 5 - Physics Libraries - 3/3/14
 -----------------------------------
+* [Nature of Code Chapter 5: Physics Libraries](http://natureofcode.com/book/chapter-5-physics-libraries/)
+* Box2D
+    * [Videos 5.1 - 5.9](http://video.natureofcode.com/5.1/)
+    * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/box2d)
+    * p5.js coming soon
+* Toxiclibs
+    * [Videos 5.13 - 5.16](http://video.natureofcode.com/5.1/)
+    * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/toxiclibs)
+    * p5.js coming soon
+* Bullet
+    * [bRigid Processing Library](http://www.lab-eds.org/bRigid)
+* Other libraries?
+* Homework TBA (exercise picking one physics library)
 
 Week 6 - Autonomous Agents - 3/10/14
 -----------------------------------
