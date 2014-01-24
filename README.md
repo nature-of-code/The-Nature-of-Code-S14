@@ -158,6 +158,7 @@ Week 6 - Autonomous Agents - 3/10/14
 -----------------------------------
 * [Nature of Code Chapter 6](http://natureofcode.com/book/chapter-6-autonomous-agents/)
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp6_agents)
+* [Videos 6.1 - 6.8](http://video.natureofcode.com/6.1/)
 * p5.js examples coming soon
 * Related
     * [Reas Process Compendium](https://vimeo.com/22955812)
@@ -202,6 +203,7 @@ Week 8 - Cellular Automata / Fractals - 3/31/14
 * Cellular Automata
     * [Nature of Code Chapter 7](http://natureofcode.com/book/chapter-7-cellular-automata/)
     * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp7_CA)
+    * [Videos 7.1 - 7.4](http://video.natureofcode.com/7.1/)
     * p5.js examples coming soon
     * [A New Kind of Science](http://www.wolframscience.com/nksonline/toc.html)
     * [Elementary Cellular Automaton](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
@@ -209,6 +211,7 @@ Week 8 - Cellular Automata / Fractals - 3/31/14
 * Fractals
    * [Nature of Code Chapter 8](http://natureofcode.com/book/chapter-8-fractals/)
    * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp8_fractals)
+   * [Videos 8.1 - 8.5](http://video.natureofcode.com/8.1/)
    * p5.js examples coming soon
    * [PBS Nova - Fractals - Hunting the Hidden Dimension](http://www.youtube.com/watch?v=LemPnZn54Kw)
    * [Fractal Geometry of Nature](http://en.wikipedia.org/wiki/The_Fractal_Geometry_of_Nature)
@@ -228,6 +231,7 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 4/7/14
 --------------------------------------------------------------
 * [Nature of Code Chapter 9](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp9_ga)
+* [GA Presentation @ Kickstarter](http://video.natureofcode.com/9.1/)
 * p5.js examples coming soon
 * Final Project Proposal Schedule TBA
 
