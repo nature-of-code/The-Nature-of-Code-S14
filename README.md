@@ -35,6 +35,11 @@ Week 1 - Introduction - 1/27/14
     * [Related and Past Projects](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Nature-of-Code-Related-and-Past-Projects)
 * [Processing](http://www.processing.org) review
 * [p5.js Discussion](https://github.com/lmccart/p5.js)
+    * [Eloquent JavaScript A Modern Introduction to Programming by Marijn Haverbeke](http://eloquentjavascript.net/)
+    * [Object-Oriented JavaScript](http://www.objectplayground.com/)
+* Github
+    * [Introduction to Git & the Command Line by Steve Klise](http://skli.se/2012/09/22/introduction-to-git/)
+    * [Git workflow beginner by Steve Klise](http://skli.se/2012/10/07/git-workflow-beginner/)
 * Randomness, Probability, and Perlin Noise
     * [Nature of Code Introduction](http://natureofcode.com/book/introduction/)
     * [Videos I.1 - I.5](http://video.natureofcode.com/i.1/)
