@@ -65,7 +65,7 @@ Week 2 - Forces - 2/3/14
 * [Nature of Code Chapter 2: Forces](http://natureofcode.com/book/chapter-2-forces/)
 * [Videos 2.1 - 2.6](http://video.natureofcode.com/2.1/)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp2_forces)
-* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp2_forces)
+* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp02_forces)
 * Assignment: [Complete the homework exercise outlined here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Homework-Week-2).
 * Supplemental Reading
     * [Newtonian Physics, An Online Textbook](http://www.lightandmatter.com/area1book1.html) (This is long, you may find Chapter 4 to be particularly relevant to this week's discussion.)
