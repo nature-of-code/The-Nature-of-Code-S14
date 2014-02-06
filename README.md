@@ -186,10 +186,10 @@ Week 10 - Neural Networks / Final Project Proposals - 4/14/14
 * p5.js examples coming soon
 * Final Project Proposal Schedule TBA
 
-Week 11 - User Testing Week - 3/21/14
+Week 11 - User Testing Week - 4/21/14
 -------------------------------------
 * This week you will "user test" your project with fellow classmates. You must have some implementation that you can test completed by this time.  User testing can mean different things for different projects. For a game, it can mean that the user tries to play it. For an art piece, it could mean showing it to a classmate and asking for them to say what they think it is about or how it made them feel. We'll show projects in a "one on one" / round robin / speed dating-style session. 5 minutes then switch. You cannot not explain your project, just show and let the user try it and give you feedback. Then you can answer questions.  User testing schedule will be provided on a wiki.
 
-Week 12 - Final Project Presentations - 3/28/14
+Week 12 - Final Project Presentations - 4/28/14
 -----------------------------------------------
 * Presentation Schedule and Guidelines TBA
