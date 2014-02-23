@@ -78,6 +78,7 @@ Week 3 - Oscillation - 2/10/14
 * [Videos 3.1 - 3.5](http://video.natureofcode.com/3.1/)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp3_oscillation)
 * p5.js coming soon
+* [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
 * Assignment: [Complete the homework exercise outlined here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Homework-Week-3).
 * Supplemental reading
     * The Mathematics of Oscillatory Motion (refer to e-mail to class list.)
