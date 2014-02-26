@@ -89,7 +89,7 @@ Week 3 - Oscillation - 2/10/14
 
 Week 4 - Systems - 2/24/14
 -------------------------------
-* [Nature of Code Chapter 4: Systems](http://natureofcode.com/book/chapter-4-particle-systems/)
+* [Nature of Code Chapter 4: Particle Systems](http://natureofcode.com/book/chapter-4-particle-systems/)
 * [Videos 4.1 - 4.9](http://video.natureofcode.com/4.1/)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp4_systems)
 * p5.js coming soon
