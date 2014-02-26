@@ -89,7 +89,7 @@ Week 3 - Oscillation - 2/10/14
 
 Week 4 - Systems - 2/24/14
 -------------------------------
-* [Nature of Code Chapter 4: Systems](http://natureofcode.com/book/chapter-4-systems/)
+* [Nature of Code Chapter 4: Systems](http://natureofcode.com/book/chapter-4-particle-systems/)
 * [Videos 4.1 - 4.9](http://video.natureofcode.com/4.1/)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp4_systems)
 * p5.js coming soon
@@ -99,7 +99,7 @@ Week 4 - Systems - 2/24/14
     * ["Particle Systems, a Technique for Modeling a Class of Fuzzy Objects", Reeves](http://doi.acm.org/10.1145/357318.357320) (available via NYU network/proxy)
     * [How my Dog learned Polymorphism](http://www.javaranch.com/campfire/StoryPoly.jsp)
     * [Particle System API, by David K. McAllister](http://www.siggraph.org/education/materials/HyperGraph/animation/particle.htm)
-    * [Particle Systems by Allen Martin](http://www.cs.unc.edu/+++~+++davemc/Particle/)
+    * [Particle Systems by Allen Martin](http://web.cs.wpi.edu/~matt/courses/cs563/talks/psys.html)
 
 Week 5 - Physics Libraries - 3/3/14
 -----------------------------------
