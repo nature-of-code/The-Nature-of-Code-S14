@@ -120,6 +120,7 @@ Week 5 - Physics Libraries - 3/3/14
     * [Advanced Character Physics](http://www.gamasutra.com/resource_guide/20030121/jacobson_pfv.htm)
 * Bullet
     * [bRigid Processing Library](http://www.lab-eds.org/bRigid)
+    * [simple 3d box demo](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/bRigid_jBullet)
 * Other libraries?
 * Assignment: [Complete the homework exercise outlined here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Homework-Week-5).
 * Supplemental Reading
