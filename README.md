@@ -123,8 +123,7 @@ Week 5 - Physics Libraries - 3/3/14
     * [simple 3d box demo](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/bRigid_jBullet)
 * Other libraries?
 * Assignment: [Complete the homework exercise outlined here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Homework-Week-5).
-* Supplemental Reading
-    * TBA
+
 
 Week 6 - Autonomous Agents - 3/10/14
 -----------------------------------
