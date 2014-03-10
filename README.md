@@ -77,7 +77,7 @@ Week 3 - Oscillation - 2/10/14
 * [Nature of Code Chapter 3: Oscillation](http://natureofcode.com/book/chapter-3-oscillation/)
 * [Videos 3.1 - 3.5](http://video.natureofcode.com/3.1/)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp3_oscillation)
-* p5.js coming soon
+* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp03_oscillation)
 * [Simple Harmonic Motion by Memo Akten](http://www.memo.tv/simple-harmonic-motion/)
 * Assignment: [Complete the homework exercise outlined here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Homework-Week-3).
 * Supplemental reading
@@ -92,7 +92,7 @@ Week 4 - Systems - 2/24/14
 * [Nature of Code Chapter 4: Particle Systems](http://natureofcode.com/book/chapter-4-particle-systems/)
 * [Videos 4.1 - 4.9](http://video.natureofcode.com/4.1/)
 * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp4_systems)
-* p5.js coming soon
+* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp04_systems)
 * Assignment: [Complete the homework exercise outlined here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Homework-Week-4).
 * Supplemental Reading
     * ["Particle animation and rendering using data parallel computation", Karl Sims](http://doi.acm.org/10.1145/97879.97923) (available via NYU network/proxy)
@@ -110,11 +110,11 @@ Week 5 - Physics Libraries - 3/3/14
     * [PBox2D github repo](https://github.com/shiffman/PBox2D)
     * [Videos 5.1 - 5.9](http://video.natureofcode.com/5.1/)
     * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/box2d)
-    * p5.js coming soon
+    * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp05_libraries/box2dweb)
 * Toxiclibs
     * [Videos 5.13 - 5.16](http://video.natureofcode.com/5.1/)
     * [Processing examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp5_physicslibraries/toxiclibs)
-    * p5.js coming soon
+    * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp05_libraries/toxiclibs)
     * [ToxicLibs](http://toxiclibs.org/)
     * [The Making of Nokia Friends](https://vimeo.com/1472427)
     * [Advanced Character Physics](http://www.gamasutra.com/resource_guide/20030121/jacobson_pfv.htm)
