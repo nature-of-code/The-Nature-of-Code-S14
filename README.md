@@ -141,7 +141,7 @@ Week 6 - Autonomous Agents - 3/10/14
 
 Week 7 - Mid-Semester Project Presentations - 3/24/14
 -----------------------------------------------------
-* Schedule TBA
+* [Documentation Links and Presentation Order](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Midterm)
 
 Week 8 - Cellular Automata / Fractals - 3/31/14
 -----------------------------------------------
@@ -180,8 +180,9 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 4/7/14
 * p5.js examples coming soon
 * Final Project Proposal Schedule TBA
 
-Week 10 - Neural Networks / Final Project Proposals - 4/14/14
+Week 10 - Neural Networks / Final Project Proposals - 4/10/14, 12:30 - 3:00pm
 --------------------------------------------------------------
+* **Note Monday, April 14th is CANCELLED, Make-Up Time is Thursday, April 10th, 12:30 - 3:00 pm in Room 15**
 * [Nature of Code Chapter 10](http://natureofcode.com/book/chapter-10-neural-networks/)
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp10_nn)
 * p5.js examples coming soon
