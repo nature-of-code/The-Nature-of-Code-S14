@@ -180,9 +180,10 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 4/7/14
 * p5.js examples coming soon
 * Final Project Proposal Schedule TBA
 
-Week 10 - Neural Networks / Final Project Proposals - 4/10/14, 12:30 - 3:00pm
---------------------------------------------------------------
-* **Note Monday, April 14th is CANCELLED, Make-Up Time is Thursday, April 10th, 12:30 - 3:00 pm in Room 15**
+# Week 10 - 4/14/14: CANCELLED
+* **Note Monday, April 14th is CANCELLED, Make-Up Time is Thursday, April 10th, 12:30 - 3:00 pm in Room 15, See below**
+
+# Week 10 - 4/10/14: MAKEUP, 12:30 - 3:00 PM, Neural Networks / Final Project Proposals
 * [Nature of Code Chapter 10](http://natureofcode.com/book/chapter-10-neural-networks/)
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp10_nn)
 * p5.js examples coming soon
