@@ -165,12 +165,7 @@ Week 8 - Cellular Automata / Fractals - 3/31/14
    * [Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)
    * [L-Systems in Computational Beauty of Nature](http://books.google.com/books?id=0aUhuv7fjxMC&pg=PA78)
 *  Assignment: Final Project Proposal.
-   * Your final project is a four week assignment to be completed in two stages (proposal and implementation).  Proposals presentations will divided between weeks 9 and 10.
-   * The final project should be a creative project that *builds off of* or *is inspired by* the concepts we've covered this semester.  You should feel free to think non-traditionally, final projects do not need to be screen-based or even involve programming.
-   * For your proposal it's up to you to best present your idea, but at a minimum you should include:
-       * Title and short paragraph description
-     * Visual documentation -- drawings, videos, images, code sketches, etc
-     * Links to inspiration and source material
+   * Prepare a final project proposal.  [Guidelines and schedule are here](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Final-Proposals).
 
 Week 9 - Genetic Algorithms / Final Project Proposals - 4/7/14
 --------------------------------------------------------------
@@ -178,7 +173,7 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 4/7/14
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp9_ga)
 * [GA Presentation @ Kickstarter](http://video.natureofcode.com/9.1/)
 * p5.js examples coming soon
-* Final Project Proposal Schedule TBA
+* [Final Project Proposal Schedule](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Final-Proposals)
 
 # Week 10 - 4/14/14: CANCELLED
 * **Note Monday, April 14th is CANCELLED, Make-Up Time is Thursday, April 10th, 12:30 - 3:00 pm in Room 15, See below**
@@ -187,7 +182,7 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 4/7/14
 * [Nature of Code Chapter 10](http://natureofcode.com/book/chapter-10-neural-networks/)
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp10_nn)
 * p5.js examples coming soon
-* Final Project Proposal Schedule TBA
+* [Final Project Proposal Schedule](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Final-Proposals)
 
 Week 11 - User Testing Week - 4/21/14
 -------------------------------------
