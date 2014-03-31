@@ -158,7 +158,7 @@ Week 8 - Cellular Automata / Fractals - 3/31/14
    * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp8_fractals)
    * [Videos 8.1 - 8.5](http://video.natureofcode.com/8.1/)
    * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp08_fractals)
-   * [PBS Nova - Fractals - Hunting the Hidden Dimension](http://www.youtube.com/watch?v=LemPnZn54Kw)
+   * [PBS Nova - Fractals - Hunting the Hidden Dimension](http://www.pbs.org/wgbh/nova/physics/hunting-hidden-dimension.html)
    * [Fractal Geometry of Nature](http://en.wikipedia.org/wiki/The_Fractal_Geometry_of_Nature)
    * [How Long is the Coastline of Britain by Benoit Mandelbrot](http://en.wikipedia.org/wiki/How_Long_Is_the_Coast_of_Britain%3F_Statistical_Self-Similarity_and_Fractional_Dimension)
    * [Toby Schachman's Recursive Drawing](http://recursivedrawing.com/)
