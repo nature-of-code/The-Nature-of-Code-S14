@@ -149,7 +149,7 @@ Week 8 - Cellular Automata / Fractals - 3/31/14
     * [Nature of Code Chapter 7](http://natureofcode.com/book/chapter-7-cellular-automata/)
     * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp7_CA)
     * [Videos 7.1 - 7.4](http://video.natureofcode.com/7.1/)
-    * p5.js examples coming soon
+    * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp07_CA)
     * [A New Kind of Science](http://www.wolframscience.com/nksonline/toc.html)
     * [Elementary Cellular Automaton](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html)
     * [2D Water Ripples CA](http://freespace.virgin.net/hugo.elias/graphics/x_water.htm)
@@ -157,7 +157,7 @@ Week 8 - Cellular Automata / Fractals - 3/31/14
    * [Nature of Code Chapter 8](http://natureofcode.com/book/chapter-8-fractals/)
    * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp8_fractals)
    * [Videos 8.1 - 8.5](http://video.natureofcode.com/8.1/)
-   * p5.js examples coming soon
+   * [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp08_fractals)
    * [PBS Nova - Fractals - Hunting the Hidden Dimension](http://www.youtube.com/watch?v=LemPnZn54Kw)
    * [Fractal Geometry of Nature](http://en.wikipedia.org/wiki/The_Fractal_Geometry_of_Nature)
    * [How Long is the Coastline of Britain by Benoit Mandelbrot](http://en.wikipedia.org/wiki/How_Long_Is_the_Coast_of_Britain%3F_Statistical_Self-Similarity_and_Fractional_Dimension)
@@ -169,8 +169,8 @@ Week 8 - Cellular Automata / Fractals - 3/31/14
    * The final project should be a creative project that *builds off of* or *is inspired by* the concepts we've covered this semester.  You should feel free to think non-traditionally, final projects do not need to be screen-based or even involve programming.
    * For your proposal it's up to you to best present your idea, but at a minimum you should include:
        * Title and short paragraph description
-	   * Visual documentation -- drawings, videos, images, code sketches, etc
-	   * Links to inspiration and source material
+     * Visual documentation -- drawings, videos, images, code sketches, etc
+     * Links to inspiration and source material
 
 Week 9 - Genetic Algorithms / Final Project Proposals - 4/7/14
 --------------------------------------------------------------
