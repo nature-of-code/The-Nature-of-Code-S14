@@ -173,7 +173,13 @@ Week 9 - Genetic Algorithms / Final Project Proposals - 4/7/14
 * [Nature of Code Chapter 9](http://natureofcode.com/book/chapter-9-the-evolution-of-code/)
 * [Processing Examples](https://github.com/shiffman/The-Nature-of-Code-Examples/tree/master/chp9_ga)
 * [GA Presentation @ Kickstarter](http://video.natureofcode.com/9.1/)
-* p5.js examples coming soon
+* [p5.js examples](https://github.com/shiffman/The-Nature-of-Code-Examples-p5.js/tree/master/chp09_ga)
+* References
+    * [Ann Chen & Danne Woo - Galapagos Evolutionary Type Design NOC 2012](http://www.typegalapagos.com/)
+    * [Flexible Muscle-Based Locomotion for Bipedal Creatures](https://vimeo.com/79098420)
+    * [BoxCar2D](http://boxcar2d.com/)
+    * [Evolved Virtual Creatures](http://www.karlsims.com/evolved-virtual-creatures.html)
+    * [Digital Babylon NOC 2005](http://joan.cat/en/dbn/)
 * [Final Project Proposal Schedule](https://github.com/shiffman/The-Nature-of-Code-S14/wiki/Final-Proposals)
 
 # Week 10 - 4/14/14: CANCELLED
